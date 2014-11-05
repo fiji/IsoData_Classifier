@@ -1,11 +1,7 @@
-import ij.IJ;
 import ij.ImagePlus;
 import ij.ImageStack;
-
 import ij.gui.GenericDialog;
-
 import ij.plugin.filter.PlugInFilter;
-
 import ij.process.ImageProcessor;
 
 /*
