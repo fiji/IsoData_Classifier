@@ -74,8 +74,8 @@
 		<url>https://github.com/fiji/IsoData_Classifier/issues</url>
 	</issueManagement>
 	<ciManagement>
-		<system>Jenkins</system>
-		<url>http://jenkins.imagej.net/job/IsoData_Classifier/</url>
+		<system>Travis CI</system>
+		<url>https://travis-ci.org/fiji/IsoData_Classifier</url>
 	</ciManagement>
 
 	<properties>
